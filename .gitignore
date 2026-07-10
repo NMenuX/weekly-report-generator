@@ -1,0 +1,15 @@
+# backend stuff
+backend/__pycache__/
+backend/*.pyc
+backend/weekly_reports.db
+backend/test_hash.py
+backend/test_all.py
+
+# frontend stuff
+frontend/node_modules/
+frontend/dist/
+
+# misc
+.env
+*.log
+.DS_Store
